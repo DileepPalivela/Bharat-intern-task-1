@@ -1,0 +1,42 @@
+body, h1, h2, p, ul, li {
+    margin: 10;
+    padding: 100;
+}
+body {
+    font-family: Arial;
+    background-color: whitesmoke;
+    padding: 20px;
+}
+header {
+    background-color:lightcoral;
+    color:black;
+    text-align: center;
+    padding: 20px;
+    border-radius: 5px;
+}
+nav {
+    background-color:lightcoral;
+    color:greenyellow;
+    text-align: center;
+}
+nav ul {
+    list-style: none;
+    padding: 10px;
+}
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+nav a {
+    text-decoration: none;
+    color:blueviolet;
+}
+section {
+    background-color:gray;
+    margin: 45px;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+
+
